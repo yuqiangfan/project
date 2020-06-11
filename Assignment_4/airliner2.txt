@@ -1,0 +1,9 @@
+American Airlines
+AA431,Oct-23 12:34,Oct-24 5:35,Los Angeles,Dallas,005,321,Airbus,150,250
+AA246,Nov-4 15:25,Nov-5 8:20,Hawaii,Los Angeles,006,321,Airbus,150,500
+AA797,Nov-12 7:25,Nov-23 6:20,Miami,Atlanta,016,321,Airbus,150,160
+AA003,Oct-27 13:25,Oct-27 14:20,Dallas,Los Angeles,203,321,Airbus,150,46
+AA791,Dec-23 9:25,Dec-24 2:20,Los Angeles,Miami,123,321,Airbus,150,50
+AA571,Oct-29 10:25,Oct-29 11:20,New York,Charlotte,041,321,Airbus,150,320
+AA413,Nov-29 11:25,Nov-30 6:20,Chicago,Miami,042,321,Airbus,150,600
+AA288,Dec-25 3:25,Dec-25 18:20,Las Vegas,Los Angeles,031,321,Airbus,150,900

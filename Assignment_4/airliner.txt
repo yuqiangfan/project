@@ -1,0 +1,4 @@
+United Airlines,UA
+American Airlines,AA
+British Airways,BA
+Icelandair Airlines,IA

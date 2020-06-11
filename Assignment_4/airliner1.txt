@@ -1,0 +1,8 @@
+United Airlines
+UA433,Nov-11 6:10,Nov-11 9:55,Boston,San Francisco,001,757,Boeing,150,160
+UA878,Oct-12 5:25,Oct-12 6:45,Boston,New York,002,739,Boeing,150,260
+UA996,Oct-1 15:25,Oct-2 7:45,Fargo,Flint,003,729,Boeing,150,240
+UA123,Nov-11 9:25,Nov-12 2:35,Jacjson,Cedar Rapids,004,442,Boeing,150,120
+UA7234,Dec-25 20:25,Dec-25 23:45,Boston,Buffalo,005,555,Boeing,150,440
+UA250,Oct-11 17:15,Oct-11 23:05,Richmond,Ontario,006,283,Boeing,150,80
+UA12322,Nov-22 18:25,Nov-23 12:35,Pittsburgh,New York,007,123,Boeing,150,1280
